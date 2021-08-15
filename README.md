@@ -13,7 +13,7 @@ Antes de empezar deberemos bajar el proyecto a nuestra PC. Hay en el dos carpeta
 - Conector USB
 - Cargador USB de 2,5A
 
-#Impresion del chasis
+# Impresion del chasis
 
 - Es importante imprimir el chasis con una altura de capa de 0,16mm máximo ya que mas allá de este punto puede que la placa no entre o queden las piezas fuera de lugar.
 - La velocidad de impresión recomendada es de 40mm/2 máximo para obtener buena terminación.
