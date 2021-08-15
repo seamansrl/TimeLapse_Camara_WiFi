@@ -53,3 +53,12 @@ Nota: Si bien en el proyecto dejo un archivo “config.json” el cual se deber�
 Una vez energizada la placa usando los cables y el conector USB solicitados en el apartado “Elementos a utilizar”, la placa iniciara con un destello en el LED del flash obteniendo el primer frame e indicando que todo esta OK. Pasado este punto y si se deja la configuración por defecto podremos conectáramos a la camara como si esta fuera un Router WiFi buscando la red “TimeLapse_Camara” y usando la clave “TimeLapse2021”.
 Una vez conectados podremos abrir nuestro navegador de internet e ir a la pagina http://192.168.4.1 la cual nos abrirá una interfaz muy discreta en la cual veremos el tiempo entre frames, si la camara opera bien, cuantos frames tenemos en memoria y nos dará la posibilidad de acceder al FTP para descargar los archivos como asi también borrar la SD.
 
+
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
