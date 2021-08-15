@@ -1,5 +1,7 @@
 # CAMARA TIMELAPSE CON GESTION WIFI
 
+![Camara terminada](Final.jpeg)
+
 # Primeros pasos:
 
 Antes de empezar deberemos bajar el proyecto a nuestra PC. Hay en el dos carpetas una llamada CODIGO y otra llamada CHASIS. En Código esta el programa que deberemos cargar a nuestra ESP32-CAM y en chasis los modelos STL para imprimir la carcaza. 
