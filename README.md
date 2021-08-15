@@ -21,7 +21,7 @@ Antes de empezar deberemos bajar el proyecto a nuestra PC. Hay en él dos carpet
 - Es importante imprimir el chasis con una altura de capa de 0,16mm máximo ya que mas allá de este punto puede que la placa no entre o queden las piezas fuera de lugar.
 - La velocidad de impresión recomendada es de 40mm/s máximo para obtener buena terminación.
 - No se requieren soportes.
-- El parasol si se hace de un PLA con un coeficiente de fusion distinto al del chasis puede que cueste que entre ya que la rosca es muy chica. (ISO 17mm con paso de 0,75mm 3 3 espiras)
+- El parasol si se hace de un PLA con un coeficiente de fusion distinto al del chasis puede que cueste que entre ya que la rosca es muy chica. (ISO 17mm con paso de 0,75mm 3 espiras)
 
 # Como cargar el código en la ESP32-CAM
 
