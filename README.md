@@ -12,6 +12,7 @@ Antes de empezar deberemos bajar el proyecto a nuestra PC. Hay en el dos carpeta
 - Cable rojo y negro 
 - Conector USB
 - Cargador USB de 2,5A
+- MicroSD de 32GB formateada en FAT32
 
 # Impresion del chasis
 
@@ -33,3 +34,14 @@ La configuración del entorno arduino para la carga sera:
 
 Nota: Si hay problemas para subir el código a la placa y todo parase corresponder correctamente deberá probar invirtiendo el RX y el TX de la placa TTL.
 
+# Configuración en tiempo de ejecución 
+
+Una vez que el código este compilado y cargado a la ESP32, podremos configurar los parámetros de la camara usando un archivo “JSON” de nombre “config.json”. Desde este podremos cambiar los ajustes de imagen según la siguiente tabla: 
+
+![Tabla de configuración de imagen]( Tabla1.jpg)
+
+Como asi también los valores del SSID que tendrá el AP WiFi y el tiempo entre cuadros quedando de esta forma:
+
+![Configuración json]( Tabla2.jpg)
+
+Nota: Si bien en el proyecto dejo un archivo “config.json” el cual se deberá pegar en el raíz de la MicroSD, esto no es un paso indispensable ya que si dicho archivo no se encuentra se aplicara una configuración por defecto.
